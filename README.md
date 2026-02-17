@@ -16,13 +16,11 @@ The motor should rotate continuously (clockwise or counterclockwise).
 
 The stepping sequence must be implemented using a list. 
 
-A loop structure (e.g., for loop inside while True) should control the stepping. 
-
 **Code 2 : StepperMotor_2 – Two Complete Rotations** 
 
 Objective : Write a program to rotate the stepper motor exactly two full revolutions and then stop. 
 
-Expected Functional Behavior 
+Expected Functional Behavior :
 
 The motor should complete two full rotations. 
 
