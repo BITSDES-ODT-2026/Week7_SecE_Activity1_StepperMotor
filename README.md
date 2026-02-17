@@ -44,7 +44,7 @@ This sequence should repeat continuously.
 
 Objective : Write a program to control motor direction using two push buttons. 
 
-⚙ Expected Functional Behavior :
+Expected Functional Behavior :
 
 Button 1 → Motor rotates continuously clockwise. 
 
